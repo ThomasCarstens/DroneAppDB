@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "522902952057",
+    "project_id": "uberexercise-69a84",
+    "storage_bucket": "uberexercise-69a84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522902952057:android:bda8e5e3dbd15c09581ca8",
+        "android_client_info": {
+          "package_name": "com.example.uberExercise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522902952057-ba65300c6prn4ve7g4omcdijhsp5fomq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uberExercise",
+            "certificate_hash": "4b462f4444e1aaf323d4f6625b314e1b8e46165e"
+          }
+        },
+        {
+          "client_id": "522902952057-gs0lu5fj3s2dtn1kq4ou84skjn3p2b9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg_InxbbIPjq63meoQk8qw1mc2zQH__Ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522902952057-gs0lu5fj3s2dtn1kq4ou84skjn3p2b9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
