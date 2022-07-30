@@ -1,6 +1,6 @@
 
 An Android app with
-Firebase Authentication
-Basic Mavsdk functions
-Tested with drone simulator
-<span style="color:blue">some *blue* text</span>.
+:large_orange_diamond: Firebase Authentication
+:small_red_triangle: Basic Mavsdk functions
+:large_blue_circle: Tested with drone simulator
+
